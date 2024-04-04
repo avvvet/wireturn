@@ -1,4 +1,4 @@
-module github.com/avvvet/turn-server
+module github.com/avvvet/wireturn
 
 go 1.22.1
 
